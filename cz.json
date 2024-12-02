@@ -1,0 +1,8 @@
+{
+  "commitizen": {
+    "name": "cz_gitmoji",
+    "tag_format": "v$version",
+    "version_scheme": "pep440",
+    "version_provider": "pep621"
+  }
+}

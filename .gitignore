@@ -1,0 +1,6 @@
+src/*/__pycache__/*
+
+cz.json
+data.json
+test.py
+test2.py
